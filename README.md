@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/banner.svg" alt="Mohammad Arshad Hossain Banner" width="100%" />
+</p>
 
  <h1 align="center">Hi 👋, I'm Mohammad Arshad Hossain</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
