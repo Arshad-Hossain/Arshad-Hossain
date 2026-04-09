@@ -1,9 +1,9 @@
-<div style="background: #E0F7FA; border-radius: 15px; padding: 30px; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h1 style="color:#00796B;">👋 Hi, I'm Mohammad Arshad Hossain</h1>
-  <h2 style="color:#004D40;">Full Stack Web Developer</h2>
-  
+<div style="background: url('https://cdn.pixabay.com/photo/2017/01/10/19/05/programmer-1965586_960_720.png') no-repeat center; background-size: cover; border-radius: 15px; padding: 50px; text-align: center; color: #004D40; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h1 style="background: rgba(255,255,255,0.8); display: inline-block; padding: 10px 20px; border-radius: 10px;">👋 Hi, I'm Mohammad Arshad Hossain</h1>
+  <h2 style="background: rgba(255,255,255,0.7); display: inline-block; padding: 5px 15px; border-radius: 10px; margin-top: 10px;">Full Stack Web Developer</h2>
+
   <!-- Skills badges -->
-  <div style="margin: 20px 0;">
+  <div style="margin: 20px 0; background: rgba(255,255,255,0.5); padding: 10px; border-radius: 10px; display: inline-block;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
@@ -12,12 +12,9 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </div>
 
-  <!-- Cartoon coding animation -->
-  <div>
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Cartoon Coding" width="200">
-  </div>
-  
-  <p style="color:#00695C; font-style:italic;">Building web experiences one line of code at a time 💻✨</p>
+  <p style="background: rgba(255,255,255,0.6); display: inline-block; padding: 5px 15px; border-radius: 10px; margin-top: 15px; font-style: italic;">
+    Building web experiences one line of code at a time 💻✨
+  </p>
 </div>
 
 
