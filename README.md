@@ -18,7 +18,12 @@
 
 ###
 
-<h1 align="center">hey there 👋 thanks for visiting me !</h1>
+<!-- <h1 align="center">hey there 👋 thanks for visiting me !</h1> -->
+<h1 align="center">👋 Hey there, this is Arshad</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Thanks+for+visiting!;Have+a+great+day!+🚀" />
+</p>
 
 ###
 
