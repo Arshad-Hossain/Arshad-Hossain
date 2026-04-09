@@ -14,12 +14,11 @@
 
   <!-- Cartoon coding animation -->
   <div>
-    <img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/programmer-1965586_960_720.png" alt="Cartoon Coder" width="200">
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Cartoon Coding" width="200">
   </div>
   
   <p style="color:#00695C; font-style:italic;">Building web experiences one line of code at a time 💻✨</p>
 </div>
-
 
 
 
