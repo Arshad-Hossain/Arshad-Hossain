@@ -1,30 +1,24 @@
-<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-  </defs>
+<div style="background: #E0F7FA; border-radius: 15px; padding: 30px; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h1 style="color:#00796B;">👋 Hi, I'm Mohammad Arshad Hossain</h1>
+  <h2 style="color:#004D40;">Full Stack Web Developer</h2>
+  
+  <!-- Skills badges -->
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  </div>
 
-  <rect width="1000" height="200" fill="url(#grad)" rx="10"/>
-
-  <text x="50%" y="40%" text-anchor="middle" fill="#ffffff" font-size="28" font-family="Arial" font-weight="bold">
-    Mohammad Arshad Hossain
-  </text>
-
-  <text x="50%" y="60%" text-anchor="middle" fill="#00d4ff" font-size="18" font-family="Arial">
-    Full Stack Web Developer
-  </text>
-
-  <text x="50%" y="80%" text-anchor="middle" fill="#ffffff" font-size="14" font-family="Arial">
-    JavaScript • React • Node.js • MongoDB
-  </text>
-</svg>
-
-
-
-
+  <!-- Cartoon coding animation -->
+  <div>
+    <img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/programmer-1965586_960_720.png" alt="Cartoon Coder" width="200">
+  </div>
+  
+  <p style="color:#00695C; font-style:italic;">Building web experiences one line of code at a time 💻✨</p>
+</div>
 
 
 
