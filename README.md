@@ -1,11 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Mohammad%20Arshad%20Hossain&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi, I'm Mohammad%20Arshad%20Hossain&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- Cartoon Developer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding cartoon"/>
+</p>
+
+<!-- Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+page!" />
 </p>
 
 ---
@@ -115,9 +120,7 @@
 <!-- <h1 align="center">hey there 👋 thanks for visiting me !</h1> -->
 <h1 align="center">👋 Hey there, this is Mohammad Arshad Hossain</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+page!" />
-</p>
+
 
 ###
 
