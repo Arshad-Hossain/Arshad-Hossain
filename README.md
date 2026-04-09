@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/banner-white.png" alt="Mohammad Arshad Hossain Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Mohammad Arshad Hossain</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
  <h1 align="center">Hi 👋, I'm Mohammad Arshad Hossain</h1>
