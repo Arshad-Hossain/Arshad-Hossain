@@ -1,3 +1,34 @@
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#grad)" rx="10"/>
+
+  <text x="50%" y="40%" text-anchor="middle" fill="#ffffff" font-size="28" font-family="Arial" font-weight="bold">
+    Mohammad Arshad Hossain
+  </text>
+
+  <text x="50%" y="60%" text-anchor="middle" fill="#00d4ff" font-size="18" font-family="Arial">
+    Full Stack Web Developer
+  </text>
+
+  <text x="50%" y="80%" text-anchor="middle" fill="#ffffff" font-size="14" font-family="Arial">
+    JavaScript • React • Node.js • MongoDB
+  </text>
+</svg>
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Mohammad Arshad Hossain</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
 
