@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/mohammad-arshad-hossain/"  height="25" alt="linkedin logo"  />
  
 </div>
 
@@ -18,7 +18,7 @@
 ###
 
 <!-- <h1 align="center">hey there 👋 thanks for visiting me !</h1> -->
-<h1 align="center">👋 Hey there, this is Arshad</h1>
+<h1 align="center">👋 Hey there, this is Mohammad Arshad Hossain</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub!" />
