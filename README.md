@@ -70,8 +70,7 @@
 ## 📫 Connect With Me
 
 - GitHub:https://github.com/Arshad-Hossain 
-- LinkedIn:www.linkedin.com/in/
-mohammad-arshad-hossain
+- LinkedIn:www.linkedin.com/in/mohammad-arshad-hossain
  
 
 ---
