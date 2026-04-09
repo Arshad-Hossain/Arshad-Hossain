@@ -57,8 +57,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arshad-Hossain&show_icons=true&theme=tokyonight" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arshadhossain&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
