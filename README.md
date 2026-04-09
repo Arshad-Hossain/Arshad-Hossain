@@ -4,16 +4,17 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div>
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/mohammad-arshad-hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ mohammad-arshad-hossain" height="30" width="40" /></a>
 </p>
+</div>
+
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 
 ###
 
