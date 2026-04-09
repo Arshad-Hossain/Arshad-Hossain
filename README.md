@@ -58,7 +58,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?user=arshad-hossain&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arshad-Hossain&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arshad-Hossain&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
