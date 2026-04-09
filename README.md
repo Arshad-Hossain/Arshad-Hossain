@@ -1,7 +1,32 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/banner-white.png" alt="Mohammad Arshad Hossain - Full Stack Web Developer Banner" width="100%" />
+ <p align="center">
+  <img src="./assets/banner-white.png" alt="Mohammad Arshad Hossain - Full Stack Web Developer Banner" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Mohammad Arshad Hossain</h1>
+<h3 align="center">Full Stack Web Developer from Bangladesh</h3>
+
+<p align="center">
+  I build modern, responsive, and scalable web applications.
+</p>
+
+---
+
+### 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Git
+
+
+
+
+
  <h1 align="center">Hi 👋, I'm Mohammad Arshad Hossain</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
 
