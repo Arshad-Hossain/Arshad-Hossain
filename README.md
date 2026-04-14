@@ -10,7 +10,7 @@
 
 <!-- Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+page!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+gitHub+page!" />
 </p>
 
 ---
