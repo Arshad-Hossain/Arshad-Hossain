@@ -60,8 +60,6 @@ Category	Favorite
 
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Arshad-Hossain&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" /> </p>
-📈 Contribution Activity
-<p align="center"> <img src="./profile/activity.svg" width="95%" alt="GitHub Contribution Activity" /> </p>
 
 🎯 2026 Goals
 
