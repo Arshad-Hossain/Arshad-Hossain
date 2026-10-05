@@ -66,10 +66,7 @@ Category	Favorite
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Arshad-Hossain&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" /> </p>
 📈 Contribution Activity
 <p align="center"> <img src="./profile/activity.svg" width="95%" alt="GitHub Contribution Activity" /> </p>
-🏆 GitHub Achievements
-<p align="center"> <img src="./profile/trophies.svg" width="95%" alt="GitHub Achievements" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="./profile/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
+
 🎯 2026 Goals
 
 🚀 Build more production-ready applications
