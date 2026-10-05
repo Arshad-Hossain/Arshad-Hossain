@@ -61,9 +61,7 @@ I'm a Full Stack Web Developer passionate about building modern, scalable, and u
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Arshad-Hossain&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" /> </p>
 📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshad-Hossain&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohammad%20Arshad%20Hossain's%20Contribution%20Graph" alt="Contribution Graph" width="95%" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arshad-Hossain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arshad-Hossain&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience" alt="GitHub Achievement Trophies" width="100%" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arshad-Hossain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arshad-Hossain&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience" alt="GitHub Achievement Trophies" width="100%" /> </p>
 🌐 Connect With Me
