@@ -57,11 +57,7 @@ Category	Favorite
 🎵 Coding Music	Lo-fi / Chill Beats
 ☕ Coding Fuel	Coffee
 📊 GitHub Statistics
-<p align="center"> <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
 
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-
-</p>
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com/?user=Arshad-Hossain&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" /> </p>
 📈 Contribution Activity
