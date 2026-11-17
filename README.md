@@ -1,84 +1,234 @@
-<!-- ========================================================= --> <!-- PROFILE HEADER --> <!-- ========================================================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mohammad%20Arshad%20Hossain&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=58&descAlign=50&descSize=18" width="100%" alt="Profile Header" /> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding Animation" /> </p> <h1 align="center"> Hi 👋, I'm Mohammad Arshad Hossain </h1> <h3 align="center"> 🚀 Full Stack Web Developer • 💻 Problem Solver • 🌱 Lifelong Learner </h3> <p align="center"> <a href="https://github.com/Arshad-Hossain"> <img src="https://komarev.com/ghpvc/?username=Arshad-Hossain&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </a> <a href="https://github.com/Arshad-Hossain?tab=followers"> <img src="https://img.shields.io/github/followers/Arshad-Hossain?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub Followers" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+👋;I+build+modern+web+applications+🚀;Turning+ideas+into+clean+code+💻;Always+learning%2C+always+building+🌱" alt="Typing Animation" /> </p>
+👋 Hi, I'm Mohammad Arshad Hossain
+🚀 Full Stack Web Developer | JavaScript Enthusiast | Problem Solver
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:00c9ff&height=230&section=header&text=Mohammad%20Arshad%20Hossain&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Experiences%20with%20Code&descAlignY=58&descSize=17" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;JavaScript+%26+React+Enthusiast;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Code.+Create.+Innovate.+Repeat." />
+</p>
+
+<p align="center">
+<a href="https://github.com/Arshad-Hossain">
+<img src="https://komarev.com/ghpvc/?username=Arshad-Hossain&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/Arshad-Hossain?tab=followers">
+<img src="https://img.shields.io/github/followers/Arshad-Hossain?style=for-the-badge&color=blue&label=FOLLOWERS" />
+</a>
+</p>
+
 👨‍💻 About Me
 
-I'm a Full Stack Web Developer passionate about building modern, scalable, and user-friendly web applications.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-💼 Full Stack Web Developer
+I'm a passionate Full Stack Web Developer who loves transforming ideas into functional, beautiful, and scalable digital experiences.
 
-🚀 Passionate about scalable web applications
+💻 Building modern full-stack applications
+🚀 Exploring new technologies and development tools
+⚛️ Passionate about React and JavaScript
+🔌 Building RESTful APIs and backend systems
+🧠 Focused on clean code and problem-solving
+🌱 Constantly learning and improving
+🎯 Working towards becoming a world-class software engineer
 
-🌱 Always learning new technologies
+<br clear="right"/>
 
-🧠 Interested in clean code, APIs, and scalable architecture
+"Great software isn't just written. It's thoughtfully designed, continuously improved, and built to solve real problems."
+🌐 Featured Portfolio
 
-🎯 Goal: Become a world-class software engineer
+<p align="center">
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-Visit%20Website-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
-⚡ Love turning ideas into real-world products
+<p align="center">
+<b>Explore my work, projects, skills, and development journey.</b>
+</p>
 
-☕ Coffee + Code = ❤️
+<p align="center">
+🌐 Live Portfolio • 💼 Projects • 🛠️ Skills • 📬 Contact
+</p>
 
-💬 "Code. Learn. Build. Improve. Repeat."
+🛠️ My Tech Arsenal
+🎨 Frontend Development
 
-🛠️ Tech Stack
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies" /> </p>
-🧰 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" alt="Development Tools" /> </p>
-💡 What I Build
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-🌐 Full Stack Web Applications
+⚙️ Backend Development
 
-🔐 Authentication & Authorization Systems
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-🔌 RESTful APIs
+🗄️ Database Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+🔧 Tools & Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
+</p>
+
+💡 What I Love Building
+
+<table>
+<tr>
+<td width="50%">
+
+🌐 Web Applications
+
+Modern, responsive, full-stack experiences.
+
+</td>
+<td width="50%">
+
+🔐 Authentication
+
+Secure login and authorization systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🔌 REST APIs
+
+Scalable backend services and APIs.
+
+</td>
+<td width="50%">
 
 📊 Admin Dashboards
 
-🛒 E-Commerce Applications
+Interactive dashboards and analytics.
 
-⚡ Modern React Applications
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-🗄️ Database-Driven Applications
+🛒 E-Commerce
 
-📱 Responsive Web Experiences
+Feature-rich online shopping platforms.
 
-📚 Currently Learning
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /> </p>
-⭐ Developer Favorites
-Category	Favorite
-💻 Favorite Language	JavaScript
-⚛️ Favorite Framework	React
-🎨 Favorite CSS Tool	Tailwind CSS
-🗄️ Favorite Database	MongoDB
-🎵 Coding Music	Lo-fi / Chill Beats
-☕ Coding Fuel	Coffee
-📊 GitHub Statistics
+</td>
+<td width="50%">
 
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Arshad-Hossain&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" /> </p>
+⚡ React Applications
 
-🎯 2026 Goals
+Dynamic and reusable user interfaces.
 
+</td>
+</tr>
+</table>
+
+💻 Behind the Code
+
+<p align="center">
+<img width="80%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer coding animation" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-CODING-00C9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-7B2FF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FUEL-COFFEE-FF9800?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
+
+javascript
+const developer = {
+  name: "Mohammad Arshad Hossain",
+  role: "Full Stack Web Developer",
+  languages: ["JavaScript", "HTML", "CSS"],
+  frontend: ["React", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["MongoDB", "MySQL"],
+  tools: ["Git", "GitHub", "VS Code", "Postman"],
+
+  currentlyLearning: [
+    "Advanced JavaScript",
+    "React Ecosystem",
+    "Backend Architecture"
+  ],
+
+  mindset: "Code. Learn. Build. Improve. Repeat."
+};
+
+console.log("Let's build something amazing! 🚀");
+
+📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arshad-Hossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Arshad-Hossain&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-Hossain&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+🐍 Contribution Activity
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+🎯 My 2026 Goals
 🚀 Build more production-ready applications
-
-🧠 Improve advanced JavaScript skills
-
-⚛️ Master the React ecosystem
-
-🔧 Build scalable backend systems
-
-📚 Learn advanced software architecture
-
+🧠 Master advanced JavaScript concepts
+⚛️ Deepen my React expertise
+🔧 Develop scalable backend architectures
+📚 Learn advanced software design patterns
 🌍 Contribute to open-source projects
-
 💼 Grow as a professional software engineer
+🌱 Developer Mindset
 
-💭 Developer Mindset
-<p align="center"> <i>"The best way to learn programming is to build something."</i> </p> <p align="center"> <b>🚀 Building today • 📚 Learning tomorrow • 💡 Creating for the future</b> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/Arshad-Hossain"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/mohammad-arshad-hossain"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" width="100%" alt="Footer" /> </p> <p align="center"> <b>✨ Thanks for visiting my profile! ✨</b> </p> <p align="center"> ⭐ If you like my work, consider giving my repositories a star! </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00C9FF&center=true&vCenter=true&width=600&lines=Think+Big.+Start+Small.;Write+Clean+Code.;Never+Stop+Learning.;Build+Things+That+Matter." />
+</p>
+
+<p align="center">
+<b>🚀 Building Today | 📚 Learning Tomorrow | 💡 Innovating Always</b>
+</p>
+
+🤝 Let's Connect & Collaborate
+
+<p align="center">
+<a href="https://github.com/Arshad-Hossain">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohammad-arshad-hossain">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arshadhossain.oh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+📧 <b>Email:</b> arshadhossain.oh@gmail.com
+</p>
+
+<p align="center">
+🌐 <b>Portfolio:</b> YOUR_PORTFOLIO_URL
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:203a43,100:090979&height=130&section=footer" width="100%" />
+</p>
+
+<h3 align="center">✨ Thanks for visiting my GitHub profile! ✨</h3>
+
+<p align="center">
+⭐ If you like my work, don't forget to star my repositories!
+</p>
+
+<p align="center">
+<b>Made with ❤️ and lots of ☕ by Mohammad Arshad Hossain</b>
+</p>
