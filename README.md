@@ -18,19 +18,31 @@
 </a>
 </p>
 
+<br/>
+
 👨‍💻 About Me
 
 <p align="center">
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 </p>
 
+I'm a passionate Full Stack Web Developer who loves building modern, responsive, and scalable web applications.
+
+I enjoy turning ideas into real-world digital experiences, solving problems, and continuously learning new technologies.
+
+🔭 Currently building modern web applications.
+🌱 Exploring advanced JavaScript and React.
+💡 Interested in clean code and scalable architecture.
+🎯 Working towards becoming a world-class software engineer.
+☕ Coffee, creativity, and coding!
+💻 A Little About Me Through Code
 javascript
-const aboutMe = {
+const developer = {
   name: "Mohammad Arshad Hossain",
 
-  "I am": "Full Stack Web Developer",
+  role: "Full Stack Web Developer",
 
-  passion: "Building modern and scalable web applications",
+  passion: "Building modern web applications",
 
   languages: [
     "JavaScript",
@@ -48,7 +60,7 @@ const aboutMe = {
     "Express.js"
   ],
 
-  database: [
+  databases: [
     "MongoDB",
     "MySQL"
   ],
@@ -58,13 +70,6 @@ const aboutMe = {
     "GitHub",
     "VS Code",
     "Postman"
-  ],
-
-  interests: [
-    "Web Development",
-    "Problem Solving",
-    "Clean Code",
-    "Scalable Architecture"
   ],
 
   currentlyLearning: [
@@ -97,6 +102,8 @@ console.log("Welcome to my GitHub profile! 🚀");
 Discover my skills, projects, technologies, and development journey.
 </p>
 
+<br/>
+
 🚀 Featured Project — MediQueue
 
 <p align="center">
@@ -105,10 +112,17 @@ Discover my skills, projects, technologies, and development journey.
 </a>
 </p>
 
-
 <p align="center">
 A live project showcasing my web development work.
 </p>
+
+<p align="center">
+<a href="https://mediqueue-tau.vercel.app/">
+<img src="https://img.shields.io/badge/Explore%20MediQueue-00C9FF?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+<br/>
 
 🛠️ My Tech Arsenal
 🎨 Frontend Development
@@ -135,65 +149,49 @@ A live project showcasing my web development work.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
+<br/>
+
 💡 What I Love Building
 
 <table>
 <tr>
 <td width="50%">
-
-🌐 Web Applications
-
-Modern, responsive, full-stack experiences.
-
+<h3>🌐 Web Applications</h3>
+<p>Modern, responsive, full-stack experiences.</p>
 </td>
 <td width="50%">
-
-🔐 Authentication Systems
-
-Secure login and authorization systems.
-
+<h3>🔐 Authentication Systems</h3>
+<p>Secure login and authorization systems.</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%">
-
-🔌 RESTful APIs
-
-Scalable backend services and APIs.
-
+<h3>🔌 RESTful APIs</h3>
+<p>Scalable backend services and APIs.</p>
 </td>
 <td width="50%">
-
-📊 Admin Dashboards
-
-Interactive dashboards and analytics.
-
+<h3>📊 Admin Dashboards</h3>
+<p>Interactive dashboards and analytics.</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%">
-
-🛒 E-Commerce
-
-Feature-rich online shopping platforms.
-
+<h3>🛒 E-Commerce</h3>
+<p>Feature-rich online shopping platforms.</p>
 </td>
 <td width="50%">
-
-⚡ React Applications
-
-Dynamic and reusable user interfaces.
-
+<h3>⚡ React Applications</h3>
+<p>Dynamic and reusable user interfaces.</p>
 </td>
 </tr>
 </table>
 
+<br/>
+
 💻 Behind the Code
 
 <p align="center">
-<img width="85%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer Coding" />
+<img width="80%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Developer Coding" />
 </p>
 
 <p align="center">
@@ -224,43 +222,43 @@ while (alive) {
   repeat();
 }
 
+
+<br/>
+
 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arshad-Hossain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Arshad-Hossain&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arshad-Hossain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.demolab.com?user=Arshad-Hossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 💻 Most Used Languages
 
 <p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-Hossain&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-Hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
+
+<br/>
 
 🐍 Contribution Activity
 
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+<img src="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
-
+<br/>
 
 🎯 My 2026 Goals
-🚀 Build more production-ready applications
-🧠 Master advanced JavaScript concepts
-⚛️ Deepen my React expertise
-🔧 Develop scalable backend architectures
-📚 Learn advanced software design patterns
-🌍 Contribute to open-source projects
-💼 Grow as a professional software engineer
+🚀 Build more production-ready applications.
+🧠 Master advanced JavaScript concepts.
+⚛️ Deepen my React expertise.
+🔧 Develop scalable backend architectures.
+📚 Learn advanced software design patterns.
+🌍 Contribute to open-source projects.
+💼 Grow as a professional software engineer.
+
+<br/>
+
 🌱 Developer Mindset
 
 <p align="center">
@@ -274,6 +272,8 @@ while (alive) {
 <p align="center">
 <b>🚀 Building Today • 📚 Learning Tomorrow • 💡 Innovating Always</b>
 </p>
+
+<br/>
 
 🤝 Let's Connect & Collaborate
 
@@ -294,6 +294,8 @@ while (alive) {
 &nbsp; • &nbsp;
 🏥 <a href="https://mediqueue-tau.vercel.app/"><b>MediQueue</b></a>
 </p>
+
+<br/>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:203a43,100:090979&height=130&section=footer" width="100%" />
