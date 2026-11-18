@@ -94,12 +94,6 @@ console.log("Welcome to my GitHub profile! 🚀");
 </p>
 
 <p align="center">
-<a href="https://portfolio-arshad-self.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-</p>
-
-<p align="center">
 Discover my skills, projects, technologies, and development journey.
 </p>
 
