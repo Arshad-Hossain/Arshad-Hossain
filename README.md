@@ -1,12 +1,12 @@
 👋 Hi, I'm Mohammad Arshad Hossain
-🚀 Full Stack Web Developer | JavaScript Enthusiast | Problem Solver
+🚀 Full Stack Web Developer | JavaScript & TypeScript Enthusiast | Problem Solver
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:203a43,100:00c9ff&height=230&section=header&text=Mohammad%20Arshad%20Hossain&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Experiences%20with%20Code&descAlignY=58&descSize=17" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;JavaScript+%26+React+Enthusiast;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Code.+Create.+Innovate.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;React+%26+Tailwind+CSS+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality;Code.+Create.+Innovate.+Repeat." />
 </p>
 
 <p align="center">
@@ -26,28 +26,45 @@
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 </p>
 
-I'm a passionate Full Stack Web Developer who loves building modern, responsive, and scalable web applications.
+I'm Mohammad Arshad Hossain, a passionate Full Stack Web Developer who loves building modern, responsive, and scalable web applications.
 
-I enjoy turning ideas into real-world digital experiences, solving problems, and continuously learning new technologies.
+I enjoy turning ideas into real-world digital experiences, solving challenging problems, and continuously learning new technologies.
 
-🔭 Currently building modern web applications.
-🌱 Exploring advanced JavaScript and React.
+🔭 Building modern full-stack web applications.
+⚛️ Developing interactive interfaces with React.
+🎨 Creating responsive UIs using Tailwind CSS.
+⚙️ Building backend applications with Node.js and Express.js.
+🗄️ Working with SQL and NoSQL databases.
+🌱 Exploring TypeScript and advanced backend architecture.
 💡 Interested in clean code and scalable architecture.
 🎯 Working towards becoming a world-class software engineer.
-☕ Coffee, creativity, and coding!
-💻 A Little About Me Through Code
+
+<br clear="right"/>
+
+💻 Developer Profile — aboutMe.js
+
+<p align="center">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/DEVELOPER%20PROFILE-00C9FF?style=for-the-badge" />
+</p>
+
 javascript
+// ========================================
+//  Mohammad Arshad Hossain
+//  Full Stack Web Developer
+// ========================================
+
 const developer = {
   name: "Mohammad Arshad Hossain",
 
   role: "Full Stack Web Developer",
 
-  passion: "Building modern web applications",
-
   languages: [
     "JavaScript",
-    "HTML",
-    "CSS"
+    "TypeScript",
+    "HTML5",
+    "CSS3"
   ],
 
   frontend: [
@@ -62,20 +79,32 @@ const developer = {
 
   databases: [
     "MongoDB",
-    "MySQL"
+    "MySQL",
+    "PostgreSQL"
   ],
 
   tools: [
     "Git",
     "GitHub",
     "VS Code",
-    "Postman"
+    "Postman",
+    "npm"
+  ],
+
+  interests: [
+    "Full Stack Development",
+    "RESTful APIs",
+    "Problem Solving",
+    "Clean Code",
+    "Scalable Architecture"
   ],
 
   currentlyLearning: [
     "Advanced JavaScript",
+    "TypeScript",
     "React Ecosystem",
-    "Backend Architecture"
+    "Backend Architecture",
+    "Database Optimization"
   ],
 
   goal: "Become a World-Class Software Engineer",
@@ -87,8 +116,17 @@ const developer = {
 
 console.log("Welcome to my GitHub profile! 🚀");
 
+⚡ My Developer Philosophy
+typescript
+while (developer.isLearning) {
+  learn();
+  build();
+  solveProblems();
+  improve();
+}
 
-<br clear="right"/>
+
+<br/>
 
 🌐 Explore My Digital World
 
@@ -127,27 +165,35 @@ A live project showcasing my web development work.
 🛠️ My Tech Arsenal
 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
 
 ⚙️ Backend Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 🗄️ Database Management
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 🔧 Tools & Development Environment
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
+
+💡 Technologies I Work With
+Category	Technologies
+Languages	JavaScript, TypeScript, HTML5, CSS3
+Frontend	React, Tailwind CSS
+Backend	Node.js, Express.js
+Databases	MongoDB, MySQL, PostgreSQL
+Tools	Git, GitHub, VS Code, Postman, npm
 
 <br/>
 
@@ -243,7 +289,15 @@ while (alive) {
 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg"
+width="100%" />
+</picture>
 </p>
 
 <br/>
@@ -251,8 +305,9 @@ while (alive) {
 🎯 My 2026 Goals
 🚀 Build more production-ready applications.
 🧠 Master advanced JavaScript concepts.
-⚛️ Deepen my React expertise.
+⚛️ Deepen my React and TypeScript expertise.
 🔧 Develop scalable backend architectures.
+🗄️ Improve PostgreSQL and database management skills.
 📚 Learn advanced software design patterns.
 🌍 Contribute to open-source projects.
 💼 Grow as a professional software engineer.
