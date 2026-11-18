@@ -23,7 +23,7 @@
 👨‍💻 About Me
 
 <p align="center">
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 </p>
 
 I'm Mohammad Arshad Hossain, a passionate Full Stack Web Developer who loves building modern, responsive, and scalable web applications.
@@ -44,77 +44,10 @@ I enjoy turning ideas into real-world digital experiences, solving challenging p
 💻 Developer Profile — aboutMe.js
 
 <p align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/DEVELOPER%20PROFILE-00C9FF?style=for-the-badge" />
+<img src="assets/about-me.svg" width="100%" alt="Mohammad Arshad Hossain VS Code Developer Profile" />
 </p>
 
-javascript
-// ========================================
-//  Mohammad Arshad Hossain
-//  Full Stack Web Developer
-// ========================================
-
-const developer = {
-  name: "Mohammad Arshad Hossain",
-
-  role: "Full Stack Web Developer",
-
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "HTML5",
-    "CSS3"
-  ],
-
-  frontend: [
-    "React",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js"
-  ],
-
-  databases: [
-    "MongoDB",
-    "MySQL",
-    "PostgreSQL"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman",
-    "npm"
-  ],
-
-  interests: [
-    "Full Stack Development",
-    "RESTful APIs",
-    "Problem Solving",
-    "Clean Code",
-    "Scalable Architecture"
-  ],
-
-  currentlyLearning: [
-    "Advanced JavaScript",
-    "TypeScript",
-    "React Ecosystem",
-    "Backend Architecture",
-    "Database Optimization"
-  ],
-
-  goal: "Become a World-Class Software Engineer",
-
-  funFact: "Coffee + Code = ❤️",
-
-  motto: "Code. Learn. Build. Improve. Repeat."
-};
-
-console.log("Welcome to my GitHub profile! 🚀");
+<br/>
 
 ⚡ My Developer Philosophy
 typescript
@@ -249,15 +182,10 @@ Tools	Git, GitHub, VS Code, Postman, npm
 ⚡ My Developer Workflow
 javascript
 while (alive) {
-
   eat();
-
   code();
-
   debug();
-
   learnSomethingNew();
-
   buildAmazingProjects();
 
   if (bugFound) {
@@ -274,14 +202,16 @@ while (alive) {
 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arshad-Hossain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.demolab.com?user=Arshad-Hossain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-💻 Most Used Languages
-
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-Hossain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img
+src="./profile/stats.svg"
+width="49%"
+alt="GitHub Statistics"
+/>
+<img
+src="./profile/top-langs.svg"
+width="49%"
+alt="Most Used Languages"
+/>
 </p>
 
 <br/>
@@ -290,12 +220,15 @@ while (alive) {
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)"
+<source
+media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)"
+<source
+media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg" />
-<img alt="GitHub Contribution Snake"
+<img
 src="https://raw.githubusercontent.com/Arshad-Hossain/Arshad-Hossain/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
 width="100%" />
 </picture>
 </p>
