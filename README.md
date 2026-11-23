@@ -26,7 +26,7 @@
 <img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 </p>
 
-I'm Mohammad Arshad Hossain, a passionate Full Stack Web Developer who loves building modern, responsive, and scalable web applications.
+I'm a passionate Full Stack Web Developer who loves building modern, responsive, and scalable web applications.
 
 I enjoy turning ideas into real-world digital experiences, solving challenging problems, and continuously learning new technologies.
 
